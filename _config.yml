@@ -1,0 +1,8 @@
+url: "https://elhigher.github.io"
+baseurl: "blog"
+title: "ACME Corp."
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
