@@ -1,5 +1,5 @@
 url: "https://elhigher.github.io"
-baseurl: ""
+baseurl: "blog"
 title: "ACME Corp."
 plugins:
   - jekyll-postcss
